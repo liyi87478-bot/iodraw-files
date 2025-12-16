@@ -62,7 +62,7 @@
           <mxGeometry x="206" y="700" width="344" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Eh7Pk5BhpMI0xFVt7GfB-4" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="315" y="830" width="140" height="80" as="geometry" />
+          <mxGeometry x="120" y="830" width="486" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
