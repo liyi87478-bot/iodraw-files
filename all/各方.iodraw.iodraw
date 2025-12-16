@@ -20,25 +20,28 @@
           <mxGeometry x="139" y="206" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1ujnwSJqh8wQ4x_uJFiT-7" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;品牌方：婴幼儿健康风险&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="524" y="390" width="230" height="20" as="geometry" />
+          <mxGeometry x="537" y="390" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1ujnwSJqh8wQ4x_uJFiT-8" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;代工厂：生产合规底线&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="474" y="350" width="230" height="20" as="geometry" />
+          <mxGeometry x="487" y="350" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1ujnwSJqh8wQ4x_uJFiT-9" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt; 电商平台：平台公信力与消费者信任&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="504" y="310" width="270" height="20" as="geometry" />
+          <mxGeometry x="517" y="310" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1ujnwSJqh8wQ4x_uJFiT-10" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;监管机构：公共利益保障&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="464" y="270" width="270" height="20" as="geometry" />
+          <mxGeometry x="477" y="270" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1ujnwSJqh8wQ4x_uJFiT-11" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#0a0a0a;" vertex="1" parent="1">
           <mxGeometry x="379.63" y="410" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1ujnwSJqh8wQ4x_uJFiT-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="343" y="310" as="sourcePoint" />
-            <mxPoint x="484" y="310" as="targetPoint" />
+            <mxPoint x="354" y="310" as="sourcePoint" />
+            <mxPoint x="495" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1ujnwSJqh8wQ4x_uJFiT-17" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
