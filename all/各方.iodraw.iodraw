@@ -11,10 +11,10 @@
           <mxGeometry x="390" y="120" width="20" height="570" as="geometry" />
         </mxCell>
         <mxCell id="1ujnwSJqh8wQ4x_uJFiT-3" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;品牌方：降低成本2亿元/年&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="280" width="120" height="20" as="geometry" />
+          <mxGeometry x="124" y="290" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1ujnwSJqh8wQ4x_uJFiT-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="250" width="120" height="20" as="geometry" />
+        <mxCell id="1ujnwSJqh8wQ4x_uJFiT-4" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;代工厂：保住35%营收&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
