@@ -34,10 +34,8 @@
             <mxPoint x="850" y="97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ysbGd9CnWKgcpo0YfdN6-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ysbGd9CnWKgcpo0YfdN6-11">
-          <mxGeometry x="0.6279" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="ysbGd9CnWKgcpo0YfdN6-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;rotation=57;" vertex="1" parent="1">
+          <mxGeometry x="660" y="210" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
