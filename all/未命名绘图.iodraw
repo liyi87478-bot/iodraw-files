@@ -46,6 +46,15 @@
         <mxCell id="ysbGd9CnWKgcpo0YfdN6-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;rotation=57;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="380" y="384" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ysbGd9CnWKgcpo0YfdN6-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="404" as="sourcePoint" />
+            <mxPoint x="510" y="354" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
