@@ -55,13 +55,13 @@
         <mxCell id="npOccaKVPD5q_DwDpYGn-40" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 10px; text-align: start; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;放任型伦理失范&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FEFAE0;rotation=60;" parent="1" vertex="1">
           <mxGeometry x="430" y="355" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Eh7Pk5BhpMI0xFVt7GfB-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+        <mxCell id="Eh7Pk5BhpMI0xFVt7GfB-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="326" y="540" width="104" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Eh7Pk5BhpMI0xFVt7GfB-3" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-180;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="Eh7Pk5BhpMI0xFVt7GfB-3" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="206" y="700" width="344" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Eh7Pk5BhpMI0xFVt7GfB-4" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-180;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Eh7Pk5BhpMI0xFVt7GfB-4" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="112" y="830" width="536" height="230" as="geometry" />
         </mxCell>
       </root>
