@@ -64,7 +64,7 @@
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;嵌入层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="388" y="473" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-23" value="提取[CLS]标记最终隐藏状态[CLS]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-23" value="提取[CLS]标记最终隐藏状态[CLS] Hidden State(768维）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="510" width="570" height="40" as="geometry" />
         </mxCell>
       </root>
