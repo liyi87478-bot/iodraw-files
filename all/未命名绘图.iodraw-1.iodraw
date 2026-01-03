@@ -104,7 +104,7 @@
           <mxGeometry x="122" y="860" width="600" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;softmax激活层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="378" y="859" width="110" height="30" as="geometry" />
+          <mxGeometry x="378" y="861" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-35" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial; white-space-collapse: preserve;&quot;&gt;P (y=0)=0.85 → 无抑郁&lt;br/&gt;P (y=1)=0.05 → 轻度抑郁&lt;br/&gt;P (y=2)=0.04 → 中度抑郁&lt;br/&gt;P (y=3)=0.03 → 重度抑郁&lt;br/&gt;P (y=4)=0.03 → 极重度抑郁&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="896" width="570" height="74" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="120" y="1032" width="600" height="96" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-38" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;输出层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="388" y="1031" width="72" height="30" as="geometry" />
+          <mxGeometry x="388" y="1032" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-39" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;预测类别&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1068" width="570" height="40" as="geometry" />
