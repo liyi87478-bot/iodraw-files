@@ -61,8 +61,11 @@
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;嵌入层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="383" y="199" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hc7OGLKuw5PfqI9QQ2CE-21" target="Hc7OGLKuw5PfqI9QQ2CE-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="570" as="sourcePoint" />
+            <mxPoint x="419" y="604" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="474" width="600" height="96" as="geometry" />
@@ -83,13 +86,16 @@
           <mxGeometry x="140" y="641" width="570" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="122" y="733" width="600" height="96" as="geometry" />
+          <mxGeometry x="121" y="733" width="600" height="96" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Dropout层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="732" width="72" height="30" as="geometry" />
+          <mxGeometry x="389" y="732" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-31" value="随即丢弃10%神经元防止过拟合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="142" y="769" width="570" height="40" as="geometry" />
+          <mxGeometry x="141" y="769" width="570" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.398;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hc7OGLKuw5PfqI9QQ2CE-25" target="Hc7OGLKuw5PfqI9QQ2CE-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
