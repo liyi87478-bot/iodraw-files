@@ -88,7 +88,7 @@
             <mxPoint x="421" y="859" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="121" y="733" width="600" height="96" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;全连接层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
@@ -100,7 +100,7 @@
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.398;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hc7OGLKuw5PfqI9QQ2CE-25" target="Hc7OGLKuw5PfqI9QQ2CE-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="122" y="860" width="600" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;softmax激活层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
@@ -109,7 +109,7 @@
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-35" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial; white-space-collapse: preserve;&quot;&gt;P (y=0)=0.85 → 无抑郁&lt;br/&gt;P (y=1)=0.05 → 轻度抑郁&lt;br/&gt;P (y=2)=0.04 → 中度抑郁&lt;br/&gt;P (y=3)=0.03 → 重度抑郁&lt;br/&gt;P (y=4)=0.03 → 极重度抑郁&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="896" width="570" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="120" y="1032" width="600" height="96" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-38" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;输出层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
