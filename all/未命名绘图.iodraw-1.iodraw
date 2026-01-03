@@ -25,7 +25,7 @@
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-9" value="&lt;span style=&quot;text-align: start;&quot;&gt;Position Embedding（位置向量）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="320" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-10" value="Token+Segment+Position向量叠加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="253" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
