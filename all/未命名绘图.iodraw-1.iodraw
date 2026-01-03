@@ -67,7 +67,7 @@
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="474" width="600" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;池化层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;池化层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="388" y="473" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-23" value="提取[CLS]标记最终隐藏状态[CLS] Hidden State(768维）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="605" width="600" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Dropout层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Dropout层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="388" y="604" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-27" value="随即丢弃10%神经元防止过拟合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -91,7 +91,7 @@
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="121" y="733" width="600" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;全连接层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;全连接层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="389" y="732" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-31" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); text-align: start; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt; 768维 → 5维线性变换&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;     W: [768×5], b: [5]   &lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
