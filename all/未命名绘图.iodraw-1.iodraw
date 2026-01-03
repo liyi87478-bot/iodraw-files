@@ -7,7 +7,7 @@
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hc7OGLKuw5PfqI9QQ2CE-2" target="Hc7OGLKuw5PfqI9QQ2CE-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-2" value="[CLS]今天天气特别好，和朋友去公园野餐【SEP]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-2" value="[CLS]今天天气特别好，和朋友去公园野餐【SEP]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;输入层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
@@ -77,7 +77,7 @@
           <mxGeometry x="120" y="605" width="600" height="96" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Dropout层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="388" y="604" width="72" height="30" as="geometry" />
+          <mxGeometry x="388" y="605" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hc7OGLKuw5PfqI9QQ2CE-27" value="随即丢弃10%神经元防止过拟合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="641" width="570" height="40" as="geometry" />
